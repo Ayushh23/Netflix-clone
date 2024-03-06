@@ -1,1 +1,0 @@
-Hello fellow coders, I've just completed my first attempt at cloning. While I haven't implemented the backend yet, I've managed to replicate the interface of the Netflix website. Please feel free to provide any guidance or point out any errors you notice
